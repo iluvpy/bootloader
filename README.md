@@ -1,5 +1,5 @@
 ## bootloader
-im just learning to write a bootloader and some bios routines
+im just learning a little bit of bootloader stuff and playing around with some bios routines
 
 ## dependencies
 - nasm
